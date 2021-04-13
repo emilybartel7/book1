@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  
+  <head>
+    <title>My first webpage</title>
+  </head>
+  
+  <body>
+    <p>
+      If I can hold myself from being attached to anything.
+      <a href="#">go to page lastpage2</a>
+    </p>
+  </body>
+  
+</html>
