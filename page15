@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+  <head>
+    <title>My first webpage</title>
+  </head>
+  
+  <body>
+    <p>
+      I am being tricked 
+      <a href="page16.html">go to page page16</a>
+    </p>
+  </body>
+  
+</html>
